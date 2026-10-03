@@ -7,5 +7,5 @@
 - Software Design - Architecture
 - C++
 
-## Interesting Books / Prospects 
+## Interest in Topics / Prospects 
 - Operating Systems Three Easy Pieces
