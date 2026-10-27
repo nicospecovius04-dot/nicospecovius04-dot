@@ -4,7 +4,7 @@
 
 ## Currently Learning
 
-- Software Design - Architecture
+- Performance / Git
 - C++
 
 ## Interest in Topics / Prospects 
