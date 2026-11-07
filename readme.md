@@ -4,7 +4,7 @@
 
 ## Currently Learning
 
-- Hardware / Git
+- Memory / Git
 - C++
 
 ## Interest in Topics / Prospects 
